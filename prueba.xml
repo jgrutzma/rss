@@ -1,14 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss version="0.91">
-	<channel>
-		<title>descargas2020.com</title>
-		<description>descargas2020.com</description>
-		<link>http://descargas2020.com/</link>
-		<lastBuildDate>2019/02/14 10:25:40</lastBuildDate>
-    <item>
-          <title>Unidad De Investigacion - Temporada 7  [HDTV][Cap.714][Castellano][www.pctnew.com]</title>
-          <link>https://descargas2020.com/descargar/serie/unidad-de-investigacion/temporada-7/capitulo-14/</link>
-          <enclosure length="524288000" />
-        <description>&lt;img src="http://feeds.feedburner.com/~r/descargas2020new/~4/Rx1MylPXU5w" height="1" width="1" alt=""/&gt;</description></item>
-	</channel>
+<?xml version= "1.0"?>
+<rss version= "2.0">
+<channel>
+<item>
+<title> XML Articles from [Your Website] </title>
+<description> Exciting new offerings from the world of XML and [Your Website] </description>
+<link>http://descargas2020.com/</link>
+</item>
+<item>
+<title>Unidad De Investigacion - Temporada 7  [HDTV][Cap.714][Castellano][www.pctnew.com]</title>
+<description> Keep up-to-date on all the tips and tricks in web design with yourwebsite.com</description>
+<link>https://descargas2020.com/descargar/serie/unidad-de-investigacion/temporada-7/capitulo-14/</link>
+</item>
+</channel>
 </rss>
